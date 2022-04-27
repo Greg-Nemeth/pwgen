@@ -3,12 +3,13 @@
 A simple random password generator built in java using picoCli.
 
 ## Contents
-    * [Build](#build)
-        *[Native-Image](#with-graalvm)
-        *[Java Jar](#with-other-jdk)
-    * [Install](#installation)
-    * [Usage](#usage)
-    * [Footer](#footer)
+
+    - [Build](#build)
+        - [Native-Image](#with-graalvm)
+        - [Java Jar](#with-other-jdk)
+    - [Install](#installation)
+    - [Usage](#usage)
+    - [Footer](#footer)
 
     
 
